@@ -11,3 +11,10 @@ padding: 30px;
 .row {
  border-color: red;   
 }
+.col-xs-2 {
+    border-color: brown;
+}
+
+body{
+    background-image: url(http://38.media.tumblr.com/tumblr_mdgfpehkYN1r8cvzdo1_500.gif)
+}
