@@ -15,6 +15,16 @@ padding: 30px;
     border-color: brown;
 }
 
+.david{
+    color: red;
+}
 body{
     background-image: url(http://38.media.tumblr.com/tumblr_mdgfpehkYN1r8cvzdo1_500.gif)
+}
+#tech{
+    background-image: urlhttps://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRqbWBTD_HCAVRdwZ-BM2Qe3RWEKpt1otq-Lwgae6fmzkQobWLS
+}
+
+#white {
+    color: white;
 }
